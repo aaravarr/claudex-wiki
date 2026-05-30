@@ -1,6 +1,6 @@
 # claudex-wiki
 
-Marketing site and user-facing documentation for [claudex](https://github.com/ahaostudy/claudex).
+Marketing site and user-facing documentation for [claudex](https://github.com/aaravarr/claudex).
 
 Built with [Astro](https://astro.build/) + Tailwind. Output is fully static — deploy to GitHub Pages, Cloudflare Pages, Vercel, Netlify, or any static host.
 
